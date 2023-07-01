@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "131309280901",
+    "project_id": "parking-united",
+    "storage_bucket": "parking-united.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131309280901:android:194e78837885181eb4d3ec",
+        "android_client_info": {
+          "package_name": "com.parking_united.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131309280901-gg7in07uufjfur39aoh05jdb271klv79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parking_united.android",
+            "certificate_hash": "aa9df254b42d8f17991aacfd136207c980fec4bc"
+          }
+        },
+        {
+          "client_id": "131309280901-ntqhfdh0gb7hgfq22m0gc8udldlg5upn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz54MYbdR46PfbQuLeeX_RBr_j6A8j-6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131309280901-ntqhfdh0gb7hgfq22m0gc8udldlg5upn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "131309280901-iqubkj5bqgmp6bujpq10i3m6u8ltpfke.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parkingUnited.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
