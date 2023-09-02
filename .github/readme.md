@@ -1,7 +1,7 @@
-# parking-united.com
+### parking-united.com
 
 ---
-## Contact
+### Contact
 
 [![Discord](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/discord.svg)](https://discord.gg/3mwJHr5Btt)
 [![Slack](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/slack.svg)](https://parking-unitedcom.slack.com/archives/C05QM7PS9GV/p1693631754500589)
