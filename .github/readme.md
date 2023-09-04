@@ -4,7 +4,7 @@
 ### Pricing
 
 ```
-$10/month per user XXX 100000 users per month = $1000000/month
+$10/month per user; 100000 users per month = $1000000/month
 ```
 
 ---
