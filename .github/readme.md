@@ -4,7 +4,7 @@
 ### Pricing
 
 ```
-$0.25 x 10 per user; 100,000 users = $250,000/month
+$0.25 x 10 commercial ; 100,000 users = $250,000/month
 ```
 
 ---
