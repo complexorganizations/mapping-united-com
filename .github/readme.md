@@ -4,10 +4,8 @@
 ### Pricing
 
 ```
-Paid:
-$5/month per user; 100000 users = $500,000/month
 Commercial:
-$0.25 x 10 per user; 100000 users = $250,000/month
+$0.25 x 10 per user; 100,000 users = $250,000/month
 ```
 
 ---
