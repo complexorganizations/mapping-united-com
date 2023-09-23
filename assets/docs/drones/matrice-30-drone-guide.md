@@ -1,6 +1,7 @@
 ## Drone and Remote Controller
 
 - **Matrice 30 Drone:**
+
   - **Quantity:** 1 unit
   - **Maintenance:** Regularly check for any physical damages, especially after prolonged use. Clean the sensors and camera lens to ensure optimal performance.
   - **Firmware:** Always keep the drone's firmware updated. New updates often come with performance improvements and bug fixes.
@@ -14,7 +15,7 @@
 
 ## Batteries and Chargers
 
-- **Matrice 30 Batteries:** 
+- **Matrice 30 Batteries:**
   - **Quantity:** 20 units
   - **Rotation Strategy:** Implement a battery rotation system. As one battery gets low, have the next fully charged battery ready for a quick swap. This ensures minimal downtime.
   - **Storage:** Store batteries in a cool, dry place. Avoid leaving them in direct sunlight.
