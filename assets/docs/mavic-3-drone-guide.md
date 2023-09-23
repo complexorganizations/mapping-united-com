@@ -43,6 +43,12 @@
 - **Wireless 5G Router:**
   - **Usage:** To send and receive data from the drone, you need a reliable internet connection. A wireless router can help you stay connected in remote locations.
   - **Buy:** [Verizon 5G Home](https://www.verizon.com/home/internet/5g/) or [T-Mobile Home Internet](https://www.t-mobile.com/home-internet)
+- **Extension Cords:**
+  - **Length:** Opt for 25ft extension cords. This ensures you can position the generator away from the drone and avoid any interference.
+  - **Buy:** [25ft Extension Cord](https://www.amazon.com/dp/B075BCD1LP)
+- **Power Strip:**
+  - **Usage:** Use a power strip to connect multiple devices to the generator. This ensures you have enough power outlets for all your equipment.
+  - **Buy:** [Power Strip](https://www.amazon.com/dp/B07GPF72BZ)
 
 ## Recommended Additional Supplies
 
