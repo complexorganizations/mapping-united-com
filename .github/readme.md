@@ -61,8 +61,8 @@ Parking made simple with our cutting-edge drone technology. As you approach your
 #### Getting Started
 
 - Clone the repository: `git clone https://github.com/complexorganizations/parking-united-com.git`
-- Navigate to the project directory: `cd parking-united-com`
-- Follow the installation instructions provided in the `.github/install.md` file.
+- Navigate to the project directory: `cd parking-united-com/`
+- Follow the installation instructions provided in the `assets/docs/flutter/install-guide.md` file.
 
 ---
 
