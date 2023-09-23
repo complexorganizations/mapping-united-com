@@ -40,6 +40,9 @@
 - **Laptop:**
   - **Software:** Regularly update the operating system and any drone-related software. Keep backup software installers on an external drive.
   - **Buy:** [MacBook Pro](https://www.apple.com/macbook-pro)
+- **Wireless 5G Router:**
+  - **Usage:** To send and receive data from the drone, you need a reliable internet connection. A wireless router can help you stay connected in remote locations.
+  - **Buy:** [Verizon 5G Home](https://www.verizon.com/home/internet/5g/) or [T-Mobile Home Internet](https://www.t-mobile.com/home-internet)
 
 ## Recommended Additional Supplies
 
