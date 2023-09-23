@@ -49,6 +49,26 @@
 - **Power Strip:**
   - **Usage:** Use a power strip to connect multiple devices to the generator. This ensures you have enough power outlets for all your equipment.
   - **Buy:** [Power Strip](https://www.amazon.com/dp/B07GPF72BZ)
+- **USB C Cables:**
+  - **Quantity:** 15 units
+  - **Usage:** Use USB C cables to connect the drone to the remote controller. This ensures a stable connection and prevents any data loss. (6 feet)
+  - **Buy:** [USB C Cables]()
+- **Zip Ties:**
+  - **Quantity:** 100 units
+  - **Usage:** Use zip ties to secure cables and prevent any damage to the drone or remote controller.
+  - **Buy:** [Zip Ties]()
+- **SD Cards:**
+  - **Quantity:** 10 units
+  - **Usage:** Always have spare SD cards on hand. This ensures you can quickly swap out cards and continue recording.
+  - **Buy:** [SD Cards]()
+- **SD Card Reader:**
+  - **Quantity:** 5 unit
+  - **Usage:** Use an SD card reader to transfer data from the SD card to your laptop. This ensures you can quickly review footage and free up space on the SD card.
+  - **Buy:** [SD Card Reader]()
+- **USB C Hub:**
+  - **Quantity:** 5 unit
+  - **Usage:** Use a USB C hub to connect multiple devices to your laptop. This ensures you have enough ports for all your equipment.
+  - **Buy:** [USB C Hub]()
 
 ## Recommended Additional Supplies
 
