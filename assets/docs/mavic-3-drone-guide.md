@@ -34,6 +34,10 @@
   - **Usage:** In order to maintain order and ensure that the generator is at least 2200W.
   - **Fuel:** Always have spare fuel on hand. Regularly check the generator's oil and perform maintenance as needed.
   - **Buy:** [Genmax Generator](https://www.amazon.com/dp/B099JZXBPW)
+- **Gas & Gas Cans :**
+  - **Quantity:** 5 gallons of gas and 2 gas cans (5 gallons each)
+  - **Storage:** Store fuel in a cool, dry place. Avoid leaving it in direct sunlight.
+  - **Buy:** [Gas Cans](https://www.amazon.com/dp/B08W7VY3BP)
 - **Power Bank:**
   - **Capacity:** Opt for a power bank with at least 750Wh capacity. This ensures multiple charges for your devices.
   - **Buy:** [EcoFlow Power Station](https://www.amazon.com/dp/B0BVLPGS79)
