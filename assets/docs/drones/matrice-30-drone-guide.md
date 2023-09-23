@@ -16,7 +16,7 @@
 - **Matrice 30 Chargers:**
   - **Quantity:** 19 units
   - **Charging Strategy:** Always have at least eight batteries on charge. This ensures a continuous supply of fully charged batteries.
-  - **Buy:** [Matrice 30 Chargers](https://www.aliexpress.us/item/3256804318093039.html)
+  - **Buy:** [Matrice 30 Chargers]()
 
 ## Additional Equipment
 
