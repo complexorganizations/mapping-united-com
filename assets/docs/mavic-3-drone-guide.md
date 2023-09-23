@@ -59,11 +59,11 @@
   - **Buy:** [USB C Cables]()
 - **Zip Ties:**
   - **Quantity:** 100 units
-  - **Usage:** Use zip ties to secure cables and prevent any damage to the drone or remote controller.
+  - **Usage:** Use zip ties to secure cables and prevent any damage to the drone or remote controller. (6 feet)
   - **Buy:** [Zip Ties]()
 - **SD Cards:**
   - **Quantity:** 10 units
-  - **Usage:** Always have spare SD cards on hand. This ensures you can quickly swap out cards and continue recording.
+  - **Usage:** Always have spare SD cards on hand. This ensures you can quickly swap out cards and continue recording. (256GB or higher capacity)
   - **Buy:** [SD Cards]()
 - **SD Card Reader:**
   - **Quantity:** 5 unit
