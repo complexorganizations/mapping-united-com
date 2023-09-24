@@ -18,7 +18,7 @@ Welcome to the installation guide for our Flutter application. Follow the steps 
 
 ```bash
 git clone https://github.com/complexorganizations/parking-united-com.git
-cd parking-united-com
+cd parking-united-com/parking_united/
 ```
 
 ### 2. Install Dependencies
