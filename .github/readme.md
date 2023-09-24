@@ -45,9 +45,9 @@ Parking made simple with our cutting-edge drone technology. As you approach your
 
 #### Application Screenshots
 
-[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/Home.png)](https://www.parking-united.com)
-[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/Parking.png)](https://www.parking-united.com)
-[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/SeekingParking.png)](https://www.parking-united.com)
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/home.svg)](https://www.parking-united.com)
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/parking.svg)](https://www.parking-united.com)
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/seekingparking.svg)](https://www.parking-united.com)
 
 ---
 
