@@ -75,15 +75,19 @@ Parking made simple with our cutting-edge drone technology. As you approach your
 #### Contact
 
 [![Discord](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/discord.svg)](https://discord.gg/2DmfdBdMwg)
-[![Twitter](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/twitter.svg)](https://twitter.com/)
+[![Facebook](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/facebook.svg)](https://www.facebook.com/)
 [![Instagram](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/instagram.svg)](https://www.instagram.com/)
 [![LinkedIn](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/linkedin.svg)](https://www.linkedin.com/)
+[![Pinterest](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/pinterest.svg)](https://www.pinterest.com/)
 [![Reddit](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/reddit.svg)](https://reddit.com/r/parking_united_com/s/YefTKn0cfX)
 [![Signal](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/signal.svg)](https://signal.group/#CjQKIPhEy6Pk8c-wXi-6O3DRXQ3eSLvJNqW61uq46Y-Ya3mrEhDaILflpc1oE9joFmzC3REG)
 [![Skype](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/skype.svg)](https://join.skype.com/hjhsrvQlinZk)
 [![Slack](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/slack.svg)](https://parking-unitedcom.slack.com/archives/C05QM7PS9GV/p1693631754500589)
+[![Snapchat](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/snapchat.svg)](https://www.snapchat.com/)
 [![Teams](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/teams.svg)](https://teams.live.com/l/community/FAAHt8haBHMqRRUOwI)
 [![Telegram](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/telegram.svg)](https://t.me/parking_united_com)
+[![TikTok](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/tiktok.svg)](https://www.tiktok.com/)
+[![Twitter](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/twitter.svg)](https://twitter.com/)
 [![WhatsApp](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/whatsapp.svg)](https://chat.whatsapp.com/KR0nia4ajom2NWl32YOYZK)
 [![YouTube](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/youtube.svg)](https://www.youtube.com/)
 
