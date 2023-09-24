@@ -4,8 +4,6 @@
 
 Welcome to the official GitHub repository of Parking United, a revolutionary application designed to transform the urban parking experience.
 
-#### Built In New York City! 🗽 🦅 🍕
-
 ---
 
 **🚀 We're Hiring Designers/Developers!** Interested in joining our dynamic team? Reach out to us to discuss opportunities. Let's build the future together! 🌐 [![Discord](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/discord.svg)](https://discord.gg/2DmfdBdMwg) [![Slack](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/slack.svg)](https://parking-unitedcom.slack.com/archives/C05QM7PS9GV/p1693631754500589)
@@ -13,6 +11,18 @@ Welcome to the official GitHub repository of Parking United, a revolutionary app
 ---
 
 Parking made simple with our cutting-edge drone technology. As you approach your destination, a drone is dispatched to swiftly scout available parking spots, guiding you directly to an open space. Say goodbye to the hassle and welcome a seamless parking experience. Revolutionizing the way you park! In an age where time is of the essence, finding a parking spot should be the least of your worries. With Parking-United.com, gone are the days of circling blocks or trawling through full lots. Leveraging state-of-the-art drone technology, we actively scout out available parking spaces in real-time. Simply access our user-friendly app, let our drones guide you to the perfect spot, and reserve it instantly. Drive directly to your reserved spot and park without a hitch. It’s not just parkin it’s a futuristic parking experience! Dive into the future of urban mobility with Parking-United.com.
+
+---
+
+#### Mission Statement
+
+To revolutionize parking through innovative solutions, enhancing urban mobility, reducing traffic congestion, and improving the overall commuting experience.
+
+---
+
+#### Headquarters
+
+Built In New York City! 🗽 🦅 🍕
 
 ---
 
