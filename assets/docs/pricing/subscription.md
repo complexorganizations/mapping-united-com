@@ -22,10 +22,9 @@
 - **Unrestricted Access**: Unlimited entry to premium and standard spaces.
 - **Priority Support**: 24/7 elevated assistance.
 - **Discounted Bookings**: Reduced rates on all reservations.
-- **Advance Booking**: Secure your spot up to 30 days ahead.
+- **Advance Booking**: Secure your spot up to 365 days ahead.
 - **Exclusive Offers**: Special promotions and discounts.
 - **Auto-Renewal**: Seamless subscription continuation.
-- **Complimentary Car Wash**: Monthly.
 - **Enhanced Mobile App**: Additional features for premium users.
 
 #### **Benefits:**
