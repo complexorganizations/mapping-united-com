@@ -1,4 +1,4 @@
-#### [![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/logo.svg)](https://www.parking-united.com) parking-united.com
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/logo.svg)](https://www.parking-united.com)
 
 #### Parking United: Space Awaits, Wherever You Are! 🚗
 
