@@ -1,32 +1,42 @@
 ### **Parking United Subscription Tiers**
 
-**1. Basic (Free Tier)**
+### **1. Basic Plan (Free)**
+*For occasional parkers seeking convenience without a commitment.*
 
-- Access to real-time parking spot availability.
-- Standard in-app navigation to parking locations.
-- Ad-supported experience.
+#### **Features:**
+- **Standard Parking Access**: Utilize standard spaces with ease.
+- **Live Availability Updates**: Real-time space status.
+- **Mobile App Access**: Locate parking spots swiftly.
+- **24/7 Support**: Constant assistance whenever needed.
 
-**2. Silver Subscription ($4.99/month)**
+#### **Limitations:**
+- **Standard Rates**: Regular parking fees apply.
+- **Booking Cap**: A maximum of 20 bookings monthly.
+- **Basic Support**: Priority support not available.
+- **Restricted Access**: No entry to premium spaces.
 
-- All Basic tier features.
-- Ad-free experience.
-- Access to a limited number of instant reservations per month.
-- Priority notification alerts for spot availability.
-- Exclusive discounts at partnered businesses near parking spots (e.g., cafes, shops).
+### **2. Premium Plan ($9.99/month)**
+*For regular parkers wanting premium, value-added services and added convenience.*
 
-**3. Gold Subscription ($9.99/month)**
+#### **Features:**
+- **Unrestricted Access**: Unlimited entry to premium and standard spaces.
+- **Priority Support**: 24/7 elevated assistance.
+- **Discounted Bookings**: Reduced rates on all reservations.
+- **Advance Booking**: Secure your spot up to 30 days ahead.
+- **Exclusive Offers**: Special promotions and discounts.
+- **Auto-Renewal**: Seamless subscription continuation.
+- **Complimentary Car Wash**: Monthly.
+- **Enhanced Mobile App**: Additional features for premium users.
 
-- All Silver tier features.
-- Unlimited instant reservations.
-- Enhanced AI-powered parking recommendations based on user behavior.
-- Ability to save preferred parking spots for faster bookings.
-- Additional discounts and loyalty rewards.
-- Priority customer support.
-- Collaborative booking: Ability to reserve multiple spots for events or group outings.
-- Premium parking spot access: Reserved spaces in prime locations.
+#### **Benefits:**
+- **Elevated Savings**: More savings with every parking.
+- **Effortless Spot Finding**: No more hassle in locating a spot.
+- **Exclusive Spots**: Access to prime parking locations.
+- **Guaranteed Peace of Mind**: Confirmed reservations and enhanced support.
 
-### **Additional Features for All Subscription Tiers**
+### **Exclusive Features for All Subscription Tiers:**
+- **Roll-over Reservations**: Unused reservations can be transferred to the next month for Premium subscribers (up to a maximum).
+- **Gift a Subscription**: Share a month of Premium subscription with loved ones.
+- **Partnership Discounts**: Exclusive promotions and discounts from our partner businesses specifically for our subscribers.
 
-- **Roll-over Reservations**: Unused reservations from a month can be rolled over to the next month for Silver and Gold tiers (up to a maximum).
-- **Gift a Subscription**: Users can gift a month of Silver, Gold, or Platinum subscription to friends or family.
-- **Partnership Discounts**: Collaboration with nearby businesses for discounts and promotions exclusively for subscribers.
+### **Choose the plan that suits your needs and enjoy hassle-free parking with Parking United!**
