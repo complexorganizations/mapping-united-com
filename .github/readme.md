@@ -95,7 +95,7 @@ After cloning the repo, Then start debugging the code.
 
 ```bash
 git clone https://github.com/complexorganizations/parking-united-com
-cd parking-united-com/
+code parking-united-com/
 ```
 
 ---
