@@ -6,33 +6,26 @@
 
 Here's a basic schedule for a single drone monitoring a medium-sized parking lot:
 
-**Weekdays:**
-
 | Time     | Activity                            |
 | -------- | ----------------------------------- |
-| 7:00 AM  | Take-off                            |
-| 7:30 AM  | Land (Battery change & Data upload) |
-| 8:00 AM  | Take-off                            |
-| 8:30 AM  | Land (Battery change & Data upload) |
-| 9:00 AM  | Take-off                            |
-| 9:30 AM  | Land (Battery change & Data upload) |
-| 12:00 PM | Take-off                            |
-| 12:30 PM | Land (Battery change & Data upload) |
-| 5:00 PM  | Take-off                            |
-| 5:30 PM  | Land (Battery change & Data upload) |
-| 6:00 PM  | Take-off                            |
-| 6:30 PM  | Land (Battery change & Data upload) |
-
-**Weekends:**
-
-| Time     | Activity                            |
-| -------- | ----------------------------------- |
-| 10:00 AM | Take-off                            |
-| 10:30 AM | Land (Battery change & Data upload) |
-| 1:00 PM  | Take-off                            |
-| 1:30 PM  | Land (Battery change & Data upload) |
-| 4:00 PM  | Take-off                            |
-| 4:30 PM  | Land (Battery change & Data upload) |
+| 6:00     | Take-off                            |
+| 6:30     | Land                                |
+| 7:00     | Take-off                            |
+| 7:30     | Land                                |
+| 8:00     | Take-off                            |
+| 8:30     | Land                                |
+| 9:00     | Take-off                            |
+| 9:30     | Land                                |
+| 14:00    | Take-off                            |
+| 14:30    | Land                                |
+| 15:00    | Take-off                            |
+| 15:30    | Land                                |
+| 16:00    | Take-off                            |
+| 16:30    | Land                                |
+| 17:00    | Take-off                            |
+| 17:30    | Land                                |
+| 18:00    | Take-off                            |
+| 18:30    | Land                                |
 
 This schedule assumes:
 
