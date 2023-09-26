@@ -31,4 +31,3 @@ This schedule assumes:
 
 - Each flight lasts 30 minutes.
 - The drone requires a 30-minute break between flights for battery changes and data uploads.
-- Peak hours on weekdays are in the morning and evening, while weekends have a more relaxed schedule.
