@@ -15,7 +15,7 @@ Welcome to the `assets/` directory of the `parking-united-com` repository. This 
 To use any asset, refer to it with the relative path from the root of the project. For example:
 
 ```html
-<img src="assets/images/car.png" alt="Car Image">
+<img src="assets/images/car.png" alt="Car Image" />
 ```
 
 ## Contribution
