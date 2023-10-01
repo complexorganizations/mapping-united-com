@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773223626123",
+    "project_id": "parking-united-com",
+    "storage_bucket": "parking-united-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773223626123:android:5b651e12bdaa116e72ab8e",
+        "android_client_info": {
+          "package_name": "com.example.parking_united"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773223626123-8a3m6nba2b94vv23v1f78numklq0at1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQFOs0Kl2HQddvv_UGrr_MGnOZDdbIcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773223626123-8a3m6nba2b94vv23v1f78numklq0at1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
