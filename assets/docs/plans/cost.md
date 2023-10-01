@@ -5,8 +5,8 @@
 
 2. **Drone Costs:**
 
-   - Assuming two DJI drones with a cost of $2,500 each:
-     - Total Drone Cost: 2 drones \* $2,500 = $5,000
+   - Assuming two DJI drones with a cost of $5,000 each:
+     - Total Drone Cost: 2 drones \* $5,000 = $10,000
 
 3. **Maintenance and Repairs:**
 
@@ -32,14 +32,14 @@
 Adding up these estimated costs for one day:
 
 - Labor: $400
-- Drones: $5,000
+- Drones: $10,000
 - Maintenance and Repairs: $500/365 (daily estimate) = $1.37
 - Software and App Development: $20,000/365 (daily estimate) = $54.79
 - Data Storage and Processing: $16.67
 - Insurance: $2,000/365 (daily estimate) = $5.48
 - Miscellaneous Costs: $1,000
 
-Total Estimated Cost: $5,478.31
+Total Estimated Cost: $10,478.31
 Total Estimated Daily Cost: $500.00
 
 Please keep in mind that these are rough estimates, and the actual costs can vary based on location, specific drone models, insurance rates, and other factors. It's crucial to conduct a detailed financial analysis and consult with experts in the field for a more accurate cost breakdown tailored to your specific business plan.
