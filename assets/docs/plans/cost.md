@@ -41,6 +41,7 @@ Adding up these estimated costs for one day:
 - Miscellaneous Costs: $1,000
 
 Total Estimated Cost: $10,580.23
+
 Total Estimated Daily Cost: $1000.00
 
 Please keep in mind that these are rough estimates, and the actual costs can vary based on location, specific drone models, insurance rates, and other factors. It's crucial to conduct a detailed financial analysis and consult with experts in the field for a more accurate cost breakdown tailored to your specific business plan.
