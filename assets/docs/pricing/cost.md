@@ -5,43 +5,48 @@
 
 2. **Drone Costs:**
 
-   - Assuming each drone costs $5,000, and you have two drones:
-     - Total Drone Cost: 2 drones * $5,000 = $10,000
+   - Assuming you purchase two drones at a one-time cost:
+     - Total Drone Cost: 2 drones * $5,000 = $10,000 (one-time cost)
 
 3. **Maintenance and Repairs:**
 
-   - Budgeting 10% of the drone cost for maintenance and repairs:
+   - Budgeting 10% of the drone cost for maintenance and repairs annually:
      - Maintenance and Repairs: 10% of $10,000 = $1,000 per year
 
 4. **Software and App Development:**
 
-   - App development costs can vary widely, but let's assume a one-time development cost of $20,000.
+   - Assuming a one-time development cost of $20,000.
 
 5. **Data Storage and Processing:**
 
    - Costs for cloud storage and processing can vary based on usage. Assuming $500 per month:
-     - Total Data Storage and Processing for One Day: $500/30 days = $16.67
+     - Total Data Storage and Processing for One Year: $500/month * 12 months = $6,000 per year
 
 6. **Insurance:**
 
-   - Assuming an annual insurance cost of $10,000, for a daily estimate:
-     - Daily Insurance Cost: $10,000/365 days = $27.40 per day
+   - Assuming an annual insurance cost of $10,000.
 
 7. **Miscellaneous Costs:**
-   - Miscellaneous costs like office space, marketing, and legal fees can vary greatly. Let's assume an additional $1,000 for one day.
+   - Miscellaneous costs like office space, marketing, and legal fees can vary greatly. Let's assume an additional $10,000 for one year.
 
-Adding up these corrected estimated costs for one day:
+8. **Application Maintenance and Updates:**
 
-- Labor: $480
-- Drones: $10,000
-- Maintenance and Repairs: $1,000/365 (daily estimate) = $2.74
-- Software and App Development: $20,000/365 (daily estimate) = $54.79
-- Data Storage and Processing: $16.67
-- Insurance: $27.40
-- Miscellaneous Costs: $1,000
+   - Assuming an annual cost of 20% of the initial development cost:
+     - Annual Maintenance and Updates Cost: 20% of $20,000 = $4,000 per year
 
-Total Estimated Cost: $10,581.60
+Now, let's calculate the total annual costs:
 
-Total Estimated Daily Cost: $1,139.60
+- Annual Labor Cost: $480/day * 365 days = $175,200
+- Annual Maintenance and Repairs Cost: $1,000
+- Annual Software and App Development Cost: $20,000
+- Annual Data Storage and Processing Cost: $6,000
+- Annual Insurance Cost: $10,000
+- Annual Miscellaneous Costs: $10,000
+- Annual Application Maintenance and Updates Cost: $4,000
 
-Again, please keep in mind that these are rough estimates, and actual costs can vary based on various factors. It's essential to conduct a detailed financial analysis tailored to your specific business plan and consult with experts in the field for a more accurate cost breakdown.
+Total Estimated Annual Cost = 
+$175,200 + $1,000 + $20,000 + $6,000 + $10,000 + $10,000 + $4,000
+
+Total Estimated Annual Cost = $226,200
+
+So, in a more realistic real-world scenario, the estimated overall cost to keep this drone business running for one year is approximately $226,200, excluding the one-time drone purchase cost. Please keep in mind that these are still rough estimates and actual costs may vary based on specific circumstances and business needs. It's essential to conduct detailed financial planning for your unique situation.
