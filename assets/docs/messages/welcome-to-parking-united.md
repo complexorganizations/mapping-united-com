@@ -7,6 +7,7 @@ Dear [Customer],
 Welcome to Parking-United.com! 🎉 We are thrilled to have you with us and are eager to make your parking experience as smooth and hassle-free as possible. We pride ourselves on providing secure, affordable, and convenient parking solutions for everyone.
 
 🅿️ **Getting Started:**
+
 1. **Explore Available Spaces:** Browse through our extensive list of parking spots available in your desired location.
 2. **Book a Spot:** Reserve your chosen parking spot effortlessly through our user-friendly platform.
 3. **Seamless Payments:** Experience smooth and secure transactions with multiple payment options available.
@@ -17,6 +18,7 @@ As a token of our appreciation, we are delighted to offer you a **10% discount**
 
 📖 **Stay Informed:**
 For the latest updates, promotions, and parking tips, be sure to follow us on our social media channels:
+
 - [Facebook](http://facebook.com/parkingunited)
 - [Twitter](http://twitter.com/parkingunited)
 - [Instagram](http://instagram.com/parkingunited)
@@ -38,7 +40,7 @@ Email: info@parking-united.com
 
 ---
 
-**P.S.** Please do not reply to this email. For any questions or support, contact us directly at support@parking-united.com or call [Contact Number]. 
+**P.S.** Please do not reply to this email. For any questions or support, contact us directly at support@parking-united.com or call [Contact Number].
 
 ---
 

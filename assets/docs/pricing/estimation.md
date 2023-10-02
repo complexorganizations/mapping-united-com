@@ -1,12 +1,12 @@
 1. **Labor Costs:**
 
    - Assuming two drone pilots working for 8 hours each at $30 per hour:
-     - Total Labor Cost for Two Pilots for One Day: 2 pilots * 8 hours * $30/hour = $480
+     - Total Labor Cost for Two Pilots for One Day: 2 pilots _ 8 hours _ $30/hour = $480
 
 2. **Drone Costs:**
 
    - Assuming you purchase two drones at a one-time cost:
-     - Total Drone Cost: 2 drones * $5,000 = $10,000 (one-time cost)
+     - Total Drone Cost: 2 drones \* $5,000 = $10,000 (one-time cost)
 
 3. **Maintenance and Repairs:**
 
@@ -20,13 +20,14 @@
 5. **Data Storage and Processing:**
 
    - Costs for cloud storage and processing can vary based on usage. Assuming $500 per month:
-     - Total Data Storage and Processing for One Year: $500/month * 12 months = $6,000 per year
+     - Total Data Storage and Processing for One Year: $500/month \* 12 months = $6,000 per year
 
 6. **Insurance:**
 
    - Assuming an annual insurance cost of $10,000.
 
 7. **Miscellaneous Costs:**
+
    - Miscellaneous costs like office space, marketing, and legal fees can vary greatly. Let's assume an additional $10,000 for one year.
 
 8. **Application Maintenance and Updates:**
@@ -36,7 +37,7 @@
 
 Now, let's calculate the total annual costs:
 
-- Annual Labor Cost: $480/day * 365 days = $175,200
+- Annual Labor Cost: $480/day \* 365 days = $175,200
 - Annual Maintenance and Repairs Cost: $1,000
 - Annual Software and App Development Cost: $20,000
 - Annual Data Storage and Processing Cost: $6,000
@@ -44,7 +45,7 @@ Now, let's calculate the total annual costs:
 - Annual Miscellaneous Costs: $10,000
 - Annual Application Maintenance and Updates Cost: $4,000
 
-Total Estimated Annual Cost = 
+Total Estimated Annual Cost =
 $175,200 + $1,000 + $20,000 + $6,000 + $10,000 + $10,000 + $4,000
 
 Total Estimated Annual Cost = $226,200
