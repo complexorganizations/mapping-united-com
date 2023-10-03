@@ -8,8 +8,8 @@ Here's a basic schedule for a single drone monitoring a medium-sized parking lot
 
 | Time  | Activity |
 | ----- | -------- |
-| 6:00  | Take-off |
-| 6:30  | Land     |
+| 7:00  | Take-off |
+| 7:30  | Land     |
 | 16:00 | Take-off |
 | 16:30 | Land     |
 
