@@ -31,11 +31,11 @@ Once again, welcome to the Parking United family! We look forward to serving you
 
 Warm Regards,
 
-The Parking United Team  
-[Parking United Logo]  
-Website: [Parking United Website](http://parking-united.com)  
-Address: [Your Office Address]  
-Phone: [Your Contact Number]  
+The Parking United Team
+[Parking United Logo]
+Website: [Parking United Website](http://parking-united.com)
+Address: [Your Office Address]
+Phone: [Your Contact Number]
 Email: info@parking-united.com
 
 ---

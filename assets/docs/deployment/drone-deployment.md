@@ -19,6 +19,7 @@ Drones can be a valuable tool for detecting available parking spots in congested
 ## 2. Hardware and Software Requirements
 
 ### Hardware:
+
 - **Drone**: A reliable drone with a high-resolution camera.
 - **Battery and Charger**: Sufficient batteries and a charger for extended flight time.
 - **Remote Controller**: A remote controller for piloting the drone.
@@ -26,6 +27,7 @@ Drones can be a valuable tool for detecting available parking spots in congested
 - **Ground Control Station**: A computer or mobile device with drone control software.
 
 ### Software:
+
 - **Drone Control Software**: Software compatible with your drone for mission planning and monitoring.
 - **Image Processing Software**: Tools for analyzing captured images.
 - **GIS (Geographic Information System) Software**: For mapping and parking spot data visualization.

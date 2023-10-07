@@ -38,11 +38,11 @@ We hope you have a pleasant experience with us and look forward to serving you a
 
 Warm Regards,
 
-The Parking United Team  
-[Parking United Logo]  
-Website: [Parking United Website](http://parking-united.com)  
-Address: [Your Office Address]  
-Phone: [Your Contact Number]  
+The Parking United Team
+[Parking United Logo]
+Website: [Parking United Website](http://parking-united.com)
+Address: [Your Office Address]
+Phone: [Your Contact Number]
 Email: info@parking-united.com
 
 ---

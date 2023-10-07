@@ -40,12 +40,12 @@ At Parking-United.com, we're not just about parking. We're also committed to a g
 
 **Meet the Team**
 
-- **John Doe:** Founder & CEO  
+- **John Doe:** Founder & CEO
   A passionate entrepreneur, John envisioned a platform that simplified urban parking. He's the driving force behind Parking-United.com.
-- **Jane Smith:** Chief Technology Officer  
+- **Jane Smith:** Chief Technology Officer
   With a knack for innovation, Jane ensures our platform remains cutting-edge, user-friendly, and efficient.
 
-- **Robert Brown:** Head of Customer Relations  
+- **Robert Brown:** Head of Customer Relations
   Ensuring top-notch customer service, Robert and his team are always ready to assist.
 
 [Insert photos and brief bios for other team members]
