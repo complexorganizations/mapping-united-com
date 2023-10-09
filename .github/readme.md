@@ -55,9 +55,9 @@ Built In New York City! 🗽 🦅 🍕
 
 #### Application Screenshots
 
-[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/home.svg)](https://www.parking-united.com)
-[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/parking.svg)](https://www.parking-united.com)
-[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/seekingparking.svg)](https://www.parking-united.com)
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/svg/Home.svg)](https://www.parking-united.com)
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/svg/Opened.svg)](https://www.parking-united.com)
+[![parking-united](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/application/svg/SeekingParking.svg)](https://www.parking-united.com)
 
 ---
 
