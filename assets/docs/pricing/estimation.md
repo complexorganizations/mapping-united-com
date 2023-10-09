@@ -1,7 +1,7 @@
 1. **Labor Costs:**
 
    - Assuming two drone pilots working for 8 hours each at $30 per hour:
-     - Total Labor Cost for Two Pilots for One Day: 2 pilots _ 8 hours _ $30/hour = $480
+     - Total Labor Cost for Two Pilots for One Day: 2 pilots \* 8 hours \* $30/hour = $480
 
 2. **Drone Costs:**
 
