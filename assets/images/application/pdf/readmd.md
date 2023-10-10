@@ -1,15 +1,15 @@
-# Parking United Assets - JPG Folder
+# Parking United Assets - PDF Folder
 
-Welcome to the "jpg" folder of the Parking United Assets repository. This folder contains a collection of JPG images related to Parking United, a leading provider of parking solutions.
+Welcome to the "PDF" folder of the Parking United Assets repository. This folder contains a collection of PDF images related to Parking United, a leading provider of parking solutions.
 
 ## Contents
 
-This folder includes a variety of JPG images that may be useful for marketing, branding, or informational purposes. Here are some of the types of images you can find here:
+This folder includes a variety of PDF images that may be useful for marketing, branding, or informational purposes. Here are some of the types of images you can find here:
 
 - **Logos:** Various versions of the Parking United logo in different sizes and formats.
-- **Promotional Materials:** JPG images of promotional flyers, posters, and banners.
+- **Promotional Materials:** PDF images of promotional flyers, posters, and banners.
 - **Product Images:** High-quality images of Parking United's products and services.
-- **Branding Assets:** JPGs of branding elements such as color schemes and design elements.
+- **Branding Assets:** PDFs of branding elements such as color schemes and design elements.
 
 ## Usage
 

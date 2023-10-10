@@ -1,6 +1,6 @@
 # Parking United Assets - JPG Folder
 
-Welcome to the "jpg" folder of the Parking United Assets repository. This folder contains a collection of JPG images related to Parking United, a leading provider of parking solutions.
+Welcome to the "JPG" folder of the Parking United Assets repository. This folder contains a collection of JPG images related to Parking United, a leading provider of parking solutions.
 
 ## Contents
 
