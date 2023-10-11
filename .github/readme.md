@@ -86,7 +86,7 @@ Built In New York City! 🗽 🦅 🍕
 
 [![Discord](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/discord.svg)](https://discord.gg/2DmfdBdMwg)
 [![Facebook](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/facebook.svg)](https://www.facebook.com/parkingunited)
-[![Instagram](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/instagram.svg)](https://www.instagram.com/)
+[![Instagram](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/instagram.svg)](https://www.instagram.com/parking_united/)
 [![LinkedIn](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/linkedin.svg)](https://www.linkedin.com/company/parking-united)
 [![Pinterest](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/pinterest.svg)](https://www.pinterest.com/parking_united/)
 [![Reddit](https://raw.githubusercontent.com/complexorganizations/parking-united-com/main/assets/images/icons/social_media/reddit.svg)](https://www.reddit.com/r/parking_united/)
