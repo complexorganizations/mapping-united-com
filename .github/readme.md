@@ -131,7 +131,7 @@ Open Source Community
 
 Developing the code without having to clone the repository
 
-[![Open in Visual Studio Code](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://open.vscode.dev/complexorganizations/dji-feed-ingestion)
+[![Open in Visual Studio Code](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://open.vscode.dev/complexorganizations/parking-united-com)
 
 ---
 
