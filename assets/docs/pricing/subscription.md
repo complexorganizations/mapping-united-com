@@ -18,7 +18,7 @@ _For occasional parkers seeking convenience without a commitment._
 - **Basic Support**: Priority support not available.
 - **Restricted Access**: No entry to premium spaces.
 
-### **2. Premium Plan ($9.99/month)**
+### **2. Premium Plan ($9.99/year)**
 
 _For regular parkers wanting premium, value-added services and added convenience._
 
