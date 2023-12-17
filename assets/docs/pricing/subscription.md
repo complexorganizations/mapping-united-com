@@ -1,48 +1,25 @@
-### **Parking United Subscription Tiers**
+### **Parking United Unified Plan (Free)**
 
-### **1. Basic Plan (Free)**
+_For all parkers seeking comprehensive and convenient parking solutions without any cost._
 
-_For occasional parkers seeking convenience without a commitment._
+**Features:**
 
-#### **Features:**
+- **Standard and Premium Parking Access:** Utilize both standard and premium spaces without restrictions.
+- **Live Availability Updates:** Real-time status of available parking spaces.
+- **Mobile App Access:** Swiftly locate and reserve parking spots through the app.
+- **24/7 Priority Support:** Constant and elevated assistance available round the clock.
+- **Discounted and Standard Rates:** Reduced rates on all reservations with no standard fee for parking.
+- **Advance Booking:** Secure spots up to 365 days in advance.
+- **Exclusive Offers:** Special promotions and discounts available to all users.
+- **Auto-Renewal:** Seamless continuation of subscription without any charges.
+- **Enhanced Mobile App Features:** Additional functionalities accessible to all users for a smoother experience.
+- **Effortless Spot Finding:** Hassle-free locating of parking spaces, including prime locations.
+- **Guaranteed Peace of Mind:** Confirmed reservations and enhanced support for all users.
 
-- **Standard Parking Access**: Utilize standard spaces with ease.
-- **Live Availability Updates**: Real-time space status.
-- **Mobile App Access**: Locate parking spots swiftly.
-- **24/7 Support**: Constant assistance whenever needed.
+**Exclusive Features for All Subscribers:**
 
-#### **Limitations:**
+- **Roll-over Reservations:** Unused reservations can be carried over to the next month.
+- **Gift a Subscription:** Share the benefits of the Unified Plan with friends and family.
+- **Partnership Discounts:** Exclusive promotions and discounts from partner businesses for all subscribers.
 
-- **Standard Rates**: Regular parking fees apply.
-- **Booking Cap**: A maximum of 20 bookings monthly.
-- **Basic Support**: Priority support not available.
-- **Restricted Access**: No entry to premium spaces.
-
-### **2. Premium Plan ($9.99/year)**
-
-_For regular parkers wanting premium, value-added services and added convenience._
-
-#### **Features:**
-
-- **Unrestricted Access**: Unlimited entry to premium and standard spaces.
-- **Priority Support**: 24/7 elevated assistance.
-- **Discounted Bookings**: Reduced rates on all reservations.
-- **Advance Booking**: Secure your spot up to 365 days ahead.
-- **Exclusive Offers**: Special promotions and discounts.
-- **Auto-Renewal**: Seamless subscription continuation.
-- **Enhanced Mobile App**: Additional features for premium users.
-
-#### **Benefits:**
-
-- **Elevated Savings**: More savings with every parking.
-- **Effortless Spot Finding**: No more hassle in locating a spot.
-- **Exclusive Spots**: Access to prime parking locations.
-- **Guaranteed Peace of Mind**: Confirmed reservations and enhanced support.
-
-### **Exclusive Features for All Subscription Tiers:**
-
-- **Roll-over Reservations**: Unused reservations can be transferred to the next month for Premium subscribers (up to a maximum).
-- **Gift a Subscription**: Share a month of Premium subscription with loved ones.
-- **Partnership Discounts**: Exclusive promotions and discounts from our partner businesses specifically for our subscribers.
-
-### **Choose the plan that suits your needs and enjoy hassle-free parking with Parking United!**
+### **Enjoy a comprehensive and hassle-free parking experience with Parking United Unified Plan – completely free! Choose convenience without any cost.**
